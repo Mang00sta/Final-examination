@@ -17,7 +17,7 @@ Google Docs, Jira, TMS, postman, Google sheets
 
 [Отчет Qase](https://app.qase.io/public/report/f69a160a029f2294dfa9852a1e7c7e9d532c813a)
 
-[Заведенные баг-репорты в Jira]()
+[Заведенные баг-репорты в Jira](https://mang00sta.github.io/for_last_exam_jira_/)
 
 [Отчет о тестировании - ]()
 
