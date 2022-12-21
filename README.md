@@ -19,7 +19,7 @@ Google Docs, Jira, TMS, postman, Google sheets
 
 [Заведенные баг-репорты в Jira](https://mang00sta.github.io/for_last_exam_jira_/)
 
-[Отчет о тестировании - ]()
+[Отчет о тестировании - ](https://docs.google.com/document/d/1ml5laUBo4LeVmwMnQdqHrSyzDBhV6wb-BlzwNx32fDQ/edit?usp=sharing)
 
 
 _________________
